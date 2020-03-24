@@ -112,9 +112,7 @@ img {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    width: 1000px;
     margin: 0 auto;
-
 }
     
 .card {
