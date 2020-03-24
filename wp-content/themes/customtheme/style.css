@@ -17,14 +17,15 @@ html {
 }
 
 a {
-    color: #000 ;
+    color: #ff6500 ;
     text-decoration: none;
-    transition: color 0.3s;
+    transition: all 0.3s;
 }
 
 a:hover {
-    color: #ff6500;
-}
+    color: #e2580a;
+    border-bottom: 1px solid #e2580a;
+}   
 
 h1,
 h2,
@@ -215,4 +216,8 @@ img {
     margin: 0 auto;
     border: 1px solid lightgray;
     padding: 20px;
+}
+
+.inline {
+    display: inline;
 }

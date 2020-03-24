@@ -48,9 +48,9 @@ and a dynamic blog hosted with Github pages</p>
     </section>
     <div class="about">
         <h2>About me</h2>
-        <p class="about-info">Hello my name is dania </p>
-        <p class="about-info">I am a front-end developer I enjoy building websites </p>
-        <p class="about-info">please visit my portfolio</p>
+        <p class="about-info">Hello I'm Dania </p>
+        <p class="about-info">a Front-end developer, I live in Rotterdam, Netherlands </p>
+        <p class="about-info inline">you can visit my</p> <a class="inline" href="https://dania-abdul.github.io/portfolio/">portfolio</a>
         <ul class="social">
             <li class="social__item"><a href="https://dania-abdul.github.io/">github</a></li>
             <li class="social__item"><a href="https://www.linkedin.com/in/dania-abdul/">linkedin</a></li>
