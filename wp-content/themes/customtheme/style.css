@@ -211,7 +211,8 @@ img {
 
 /* about */
 .about {
-    height: 100%;
-    max-width: 600px;
+    max-width: 990px;
     margin: 0 auto;
+    border: 1px solid lightgray;
+    padding: 20px;
 }
