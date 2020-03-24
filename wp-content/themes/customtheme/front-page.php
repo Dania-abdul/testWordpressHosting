@@ -13,7 +13,7 @@
 <main>
     <div class="intro">
         <h2 class="intro__title">Wordpress custom page and Blog</h2>
-        <p class="intro__text">This is a completely responsive website built from scratch using WordPress, HTML, CSS, JavaScpript, and PHP</p>                             
+        <p class="intro__text">This is a completely responsive website set-up using WordPress, HTML, CSS, JavaScpript, and PHP</p>                             
     </div>
         
     <section>
