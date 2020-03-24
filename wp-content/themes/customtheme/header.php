@@ -13,7 +13,7 @@
     <header>
         <div class="banner">
             <a href="<?php echo site_url(''); ?>" class="page--sample">Home</a>
-            <span class="page--sample split">|</span>
+            <!-- <span class="page--sample split">|</span> -->
             <!-- <a href="<?php echo site_url('/blog'); ?>" class="page--sample">Blog</a>
             <span class="page--sample split">|</span>
             <a href="<?php echo site_url('/about'); ?>" class="page--sample">About</a> -->
